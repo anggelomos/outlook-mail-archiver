@@ -1,0 +1,5 @@
+selenium
+assertpy
+Faker
+rstr
+webdriver-manager
